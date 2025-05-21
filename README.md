@@ -35,7 +35,7 @@ Task Automation: To enable the chatbot to perform simple tasks and provide infor
 
 3] In Mainactivity.java file put your own api key
 
-4] Run the application on an Android device or emulator
+4] Run the application on an Android device or emulator.
 
 ## Usage
 
